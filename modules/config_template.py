@@ -50,7 +50,7 @@ template_default = {
     },
 
     # test_url = "https://www.apple.com/library/test/success.html"
-    "TEST_URL": "https://www.gstatic.com/generate_204",
+    "TEST_URL": "https://cp.cloudflare.com/generate_204",
 
     "RULESET": [
         ["🎯 全球直连", "https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/LocalAreaNetwork.list"],
@@ -339,7 +339,7 @@ template_zju = {
     },
 
     # test_url = "https://www.apple.com/library/test/success.html"
-    "TEST_URL": "https://www.gstatic.com/generate_204",
+    "TEST_URL": "https://cp.cloudflare.com/generate_204",
 
     "RULESET": [
         ["🛸 PT站", "https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/PrivateTracker.list"],
