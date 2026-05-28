@@ -40,7 +40,7 @@ HEAD:
     - +.lan
     - +.microsoft*.com
     - localhost.ptlogin2.qq.com
-TEST_URL: https://www.gstatic.com/generate_204
+TEST_URL: https://cp.cloudflare.com/generate_204
 RULESET:
 - - 🛸 PT站
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Ruleset/PrivateTracker.list
